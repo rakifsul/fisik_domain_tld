@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>RAKIFSUL FISIK</title>
+    <link href="https://fisik.rakifsul.my.id/feed.xml" rel="self" />
+    <link href="https://fisik.rakifsul.my.id" />
+    <updated>2024-03-15T02:54:29+07:00</updated>
+    <author>
+        <name>RAKIFSUL</name>
+    </author>
+    <id>https://fisik.rakifsul.my.id</id>
+
+    <entry>
+        <title>Korek Zippo Saguaro Design</title>
+        <author>
+            <name>RAKIFSUL</name>
+        </author>
+        <link href="https://fisik.rakifsul.my.id/korek-zippo-saguaro-design.html"/>
+        <id>https://fisik.rakifsul.my.id/korek-zippo-saguaro-design.html</id>
+            <category term="Produk"/>
+            <category term="Korek Zippo"/>
+
+        <updated>2024-03-15T02:54:29+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Aglaonema Merah</title>
+        <author>
+            <name>RAKIFSUL</name>
+        </author>
+        <link href="https://fisik.rakifsul.my.id/aglaonema-merah.html"/>
+        <id>https://fisik.rakifsul.my.id/aglaonema-merah.html</id>
+            <category term="Tanaman Hias"/>
+            <category term="Produk"/>
+
+        <updated>2024-03-15T02:54:17+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

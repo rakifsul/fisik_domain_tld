@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RAKIFSUL FISIK",
+    "description": "",
+    "home_page_url": "https://fisik.rakifsul.my.id",
+    "feed_url": "https://fisik.rakifsul.my.id/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "RAKIFSUL"
+    },
+    "items": [
+        {
+            "id": "https://fisik.rakifsul.my.id/korek-zippo-saguaro-design.html",
+            "url": "https://fisik.rakifsul.my.id/korek-zippo-saguaro-design.html",
+            "title": "Korek Zippo Saguaro Design",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Produk",
+                   "Korek Zippo"
+            ],
+            "date_published": "2024-03-15T02:52:45+07:00",
+            "date_modified": "2024-03-15T02:54:29+07:00"
+        },
+        {
+            "id": "https://fisik.rakifsul.my.id/aglaonema-merah.html",
+            "url": "https://fisik.rakifsul.my.id/aglaonema-merah.html",
+            "title": "Aglaonema Merah",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Tanaman Hias",
+                   "Produk"
+            ],
+            "date_published": "2024-03-15T02:29:27+07:00",
+            "date_modified": "2024-03-15T02:54:17+07:00"
+        }
+    ]
+}

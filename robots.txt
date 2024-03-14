@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fisik.rakifsul.my.id/sitemap.xml
