@@ -3,7 +3,7 @@
     <title>RAKIFSUL FISIK</title>
     <link href="https://fisik.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://fisik.rakifsul.my.id" />
-    <updated>2024-03-15T02:54:29+07:00</updated>
+    <updated>2024-03-15T04:54:31+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
@@ -19,9 +19,17 @@
             <category term="Produk"/>
             <category term="Korek Zippo"/>
 
-        <updated>2024-03-15T02:54:29+07:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2024-03-15T04:54:26+07:00</updated>
+            <summary>
+                <![CDATA[
+                    belum dijual
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>belum dijual</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Aglaonema Merah</title>
@@ -33,8 +41,16 @@
             <category term="Tanaman Hias"/>
             <category term="Produk"/>
 
-        <updated>2024-03-15T02:54:17+07:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2024-03-15T04:54:31+07:00</updated>
+            <summary>
+                <![CDATA[
+                    belum dijual
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>belum dijual</p>
+            ]]>
+        </content>
     </entry>
 </feed>
