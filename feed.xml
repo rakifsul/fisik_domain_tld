@@ -3,31 +3,30 @@
     <title>RAKIFSUL FISIK</title>
     <link href="https://fisik.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://fisik.rakifsul.my.id" />
-    <updated>2024-03-15T15:45:02+07:00</updated>
+    <updated>2024-03-15T16:03:36+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
     <id>https://fisik.rakifsul.my.id</id>
 
     <entry>
-        <title>Korek Zippo Saguaro Design</title>
+        <title>RAKIFSUL Fisik Akhirnya Dibuka</title>
         <author>
             <name>RAKIFSUL</name>
         </author>
-        <link href="https://fisik.rakifsul.my.id/korek-zippo-saguaro-design.html"/>
-        <id>https://fisik.rakifsul.my.id/korek-zippo-saguaro-design.html</id>
-            <category term="Produk Korek Zippo"/>
-            <category term="Produk"/>
+        <link href="https://fisik.rakifsul.my.id/rakifsul-fisik-akhirnya-dibuka.html"/>
+        <id>https://fisik.rakifsul.my.id/rakifsul-fisik-akhirnya-dibuka.html</id>
+            <category term="Info"/>
 
-        <updated>2024-03-15T15:45:02+07:00</updated>
+        <updated>2024-03-15T16:03:36+07:00</updated>
             <summary>
                 <![CDATA[
-                    Belum dijual
+                    Sekarang, untuk semua produk fisik RAKIFSUL, dijual di website ini.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Belum dijual</p>
+                <p>Sekarang, untuk semua produk fisik RAKIFSUL, dijual di <a href="https://fisik.rakifsul.my.id">website ini</a>.</p>
             ]]>
         </content>
     </entry>
