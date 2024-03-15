@@ -3,12 +3,34 @@
     <title>RAKIFSUL FISIK</title>
     <link href="https://fisik.rakifsul.my.id/feed.xml" rel="self" />
     <link href="https://fisik.rakifsul.my.id" />
-    <updated>2024-03-15T15:41:14+07:00</updated>
+    <updated>2024-03-15T15:45:02+07:00</updated>
     <author>
         <name>RAKIFSUL</name>
     </author>
     <id>https://fisik.rakifsul.my.id</id>
 
+    <entry>
+        <title>Korek Zippo Saguaro Design</title>
+        <author>
+            <name>RAKIFSUL</name>
+        </author>
+        <link href="https://fisik.rakifsul.my.id/korek-zippo-saguaro-design.html"/>
+        <id>https://fisik.rakifsul.my.id/korek-zippo-saguaro-design.html</id>
+            <category term="Produk Korek Zippo"/>
+            <category term="Produk"/>
+
+        <updated>2024-03-15T15:45:02+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Belum dijual
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Belum dijual</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cara Pembelian Produk Fisik RAKIFSUL</title>
         <author>
@@ -42,28 +64,6 @@
 <li>Saya tidak bertanggung jawab jika Anda datang tidak tepat waktu dan tidak ada orang di lokasi saya.</li>
 <li>Untuk pembayaran produk, hanya menerima uang cash.</li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Korek Zippo Saguaro Design</title>
-        <author>
-            <name>RAKIFSUL</name>
-        </author>
-        <link href="https://fisik.rakifsul.my.id/korek-zippo-saguaro-design.html"/>
-        <id>https://fisik.rakifsul.my.id/korek-zippo-saguaro-design.html</id>
-            <category term="Produk Korek Zippo"/>
-            <category term="Produk"/>
-
-        <updated>2024-03-15T04:54:26+07:00</updated>
-            <summary>
-                <![CDATA[
-                    belum dijual
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>belum dijual</p>
             ]]>
         </content>
     </entry>

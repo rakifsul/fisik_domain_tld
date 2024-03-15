@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://fisik.rakifsul.my.id/korek-zippo-saguaro-design.html",
+            "url": "https://fisik.rakifsul.my.id/korek-zippo-saguaro-design.html",
+            "title": "Korek Zippo Saguaro Design",
+            "summary": "Belum dijual",
+            "content_html": "<p>Belum dijual</p>",
+            "author": {
+                "name": "RAKIFSUL"
+            },
+            "tags": [
+                   "Produk Korek Zippo",
+                   "Produk"
+            ],
+            "date_published": "2024-03-15T15:44:53+07:00",
+            "date_modified": "2024-03-15T15:45:02+07:00"
+        },
+        {
             "id": "https://fisik.rakifsul.my.id/cara-pembelian-produk-fisik-rakifsul.html",
             "url": "https://fisik.rakifsul.my.id/cara-pembelian-produk-fisik-rakifsul.html",
             "title": "Cara Pembelian Produk Fisik RAKIFSUL",
@@ -23,22 +39,6 @@
             ],
             "date_published": "2024-03-15T04:55:27+07:00",
             "date_modified": "2024-03-15T15:41:14+07:00"
-        },
-        {
-            "id": "https://fisik.rakifsul.my.id/korek-zippo-saguaro-design.html",
-            "url": "https://fisik.rakifsul.my.id/korek-zippo-saguaro-design.html",
-            "title": "Korek Zippo Saguaro Design",
-            "summary": "belum dijual",
-            "content_html": "<p>belum dijual</p>",
-            "author": {
-                "name": "RAKIFSUL"
-            },
-            "tags": [
-                   "Produk Korek Zippo",
-                   "Produk"
-            ],
-            "date_published": "2024-03-15T02:52:45+07:00",
-            "date_modified": "2024-03-15T04:54:26+07:00"
         }
     ]
 }
